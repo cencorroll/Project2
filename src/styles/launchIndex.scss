@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+}
+
+.card {
+  margin-bottom: 10px
+}
+
+.hero {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  .hero-container{
+    border-radius: 8px;
+    padding: 90px;
+    background-image: url(https://ichef.bbci.co.uk/news/640/cpsprodpb/7727/production/_103330503_musk3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+}
+
+.launch {
+  margin-bottom: 10px;
+}
+
+.space-x {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+
+img {
+  width: 300px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+
+}
+
+.logo {
+  height: 50px;
+}
+
+a{
+  text-decoration: none;
+  color: #000;
+}
+
+.gallery-btn {
+  margin-left:10px;
+}
+
+.gallery-button {
+  margin-left: 10px;
+}
+
+.btn {
+  margin-bottom: 20px;
+}
