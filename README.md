@@ -1,4 +1,4 @@
-# projectTWO - SpaceX Website
+# project2 - SpaceX Website
 
 This was a web app built using a space x RESTful API. It showed different launches and also an index of crews that could be linked back to the launches. It was created using React and a CSS library called React Bootstrap. It also included the use of axios and was hosted using netlify.
 
